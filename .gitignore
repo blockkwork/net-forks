@@ -1,0 +1,17 @@
+eth/node_modules
+.env
+
+# Hardhat files
+eth/cache
+eth/artifacts
+
+# TypeChain files
+eth/typechain
+eth/typechain-types
+
+# solidity-coverage files
+eth/coverage
+eth/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+eth/ignition/deployments/chain-31337
